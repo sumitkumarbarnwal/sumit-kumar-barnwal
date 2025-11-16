@@ -2,17 +2,17 @@
 # 👋 Hi there! I'm Sumit Kumar Barnwal  
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-## 🚀 About Me  
+## 🚀 About Me
+🔭 I'm a Freelancer.
 🎓 I'm a 3rd-year B.Tech CSE student at **Lovely Professional University**, passionate about building real-world tech solutions.  
-💡 I specialize in **Software Development, Data Structures & Algorithms, and Cloud Computing**.  
+💡 I specialize in **Software Development, Data Structures & Algorithms, and Deveops**.  
 
 - 🔭 Currently working on full-stack & AI/ML-based projects  
-- 📊 Exploring **Data Science** as a minor  
-- 💻 Built feature-rich projects like **Amazon Clone**, **Spotify Clone**, and a **Smart Voting System** using **Node.js**, **Firebase**, **MongoDB**, and **MySQL**  
+- 📊 Exploring **Data Science** as a minor    
 - 🧠 Preparing for placements with hands-on DSA practice in **Java** and **C++**  
 - ☁️ **Oracle Java Foundations** & **OCI AI Foundations Associate** certified  
-- 🏆 Achieved 2nd position in Hackathon @ IIT Ropar  
-- ⭐ Solved 200+ problems on **LeetCode**, 5⭐ badge on **HackerRank**, and active member in multiple tech clubs  
+- 🏆 Achieved 5th position in Hackathon @ innovate X
+- ⭐ Solved 122+ problems on **LeetCode**, 5⭐ badge on **HackerRank**, and active member in multiple tech clubs  
 
 ---
 
